@@ -30,3 +30,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# typescript
+*.tsbuildinfo
+
+*.sketch
+*.fig
+*.xd
+.DS_Store
+/sample
