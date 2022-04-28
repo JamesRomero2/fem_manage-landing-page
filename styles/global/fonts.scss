@@ -1,15 +1,59 @@
 @font-face {
-	font-family: "Kumbh Sans";
-	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1648604647/personalproject/Fonts/Kumbh_Sans/static/KumbhSans-Regular_vnxwnr.ttf")
-		format("truetype");
+	font-family: "Prompt";
+	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff2/Prompt-Thin_sti3fi.woff2")
+			format("woff2"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff/Prompt-Thin_gchdv1.woff")
+			format("woff"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/ttf/Prompt-Thin_ulyf24.ttf")
+			format("truetype");
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Prompt";
+	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff2/Prompt-Light_xzhz3w.woff2")
+			format("woff2"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff/Prompt-Light_auciot.woff")
+			format("woff"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/ttf/Prompt-Light_ar5ncj.ttf")
+			format("truetype");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Prompt";
+	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff2/Prompt-Regular_yh91zu.woff2")
+			format("woff2"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff/Prompt-Regular_uz9aog.woff")
+			format("woff"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/ttf/Prompt-Regular_l6uhav.ttf")
+			format("truetype");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: "Kumbh Sans";
-	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1648604647/personalproject/Fonts/Kumbh_Sans/static/KumbhSans-Bold_gwucym.ttf")
-		format("truetype");
+	font-family: "Prompt";
+	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff2/Prompt-Medium_zlibkj.woff2")
+			format("woff2"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/woff/Prompt-Medium_izp0hl.woff")
+			format("woff"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/ttf/Prompt-Medium_r5ox68.ttf")
+			format("truetype");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Prompt";
+	src: url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108194/frontendmentor/ManageLandingPage/fonts/woff2/Prompt-Bold_emlyft.woff2")
+			format("woff2"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/woff/Prompt-Bold_yiezup.woff")
+			format("woff"),
+		url("https://res.cloudinary.com/blueshomepage/raw/upload/v1651108193/frontendmentor/ManageLandingPage/fonts/ttf/Prompt-Bold_wz41la.ttf")
+			format("truetype");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;

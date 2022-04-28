@@ -1,4 +1,4 @@
-# E-Commerce Product Page
+# Manage Landing Page
 
 Coded by [James Romero](https://jamesromero-homepage.vercel.app/).
 
@@ -24,7 +24,7 @@ TESTING (Not Implemented)
 
 **TIME FRAME**
 
--   Start Date :
+-   Start Date : April 28, 2022
 -   Finish Date :
 
 **PROBLEMS ENCOUNTER**
